@@ -1,0 +1,4 @@
+my sql port no 3306
+mysq;1433
+
+;3306
